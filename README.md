@@ -13,9 +13,11 @@ If you do not already have a copy of Petit Computer then you will not be able to
 #### Edit:
 After some messing around, I've figured out how to extract the `.nds` file for installation on a DSi. I can't test if it works, or if there's even a way to install it, since I don't own a DSi. I've tested it on emulators, and it doesn't work.
 
-I've also packaged the `.nds` file into a `.cia` file for installation on a 3DS. This file will also not work on an emulator, but if loaded onto a 3DS, it works properly. If you follow [this guide](https://3ds.hacks.guide/get-started), you'll be able to install the `.cia` file using the new `FBI` app on the homescreen. The guide takes a while, but it gives you root access on your 3ds, opening up a lot of really cool new options.
+I've also packaged the `.nds` file into a `.cia` file for installation on a 3DS. This file will also not work on an emulator, but if loaded onto a 3DS, it works properly. 
 
-From the main menu in the `FBI` app, go to `Remote Install`, then `Scan QR Code` and scan this code to download and install Petit Computer. After the installation is complete, exit the app, then restart your system. You should now see the new app on your home menu.
+To install the `.cia` file, you'll need an app called **FBI**. My recommendation is to follow [this guide](https://3ds.hacks.guide/get-started), which will grant you root access on your 3DS and install **FBI** along with a few other useful apps. Another option is to use the [Homebrew Launcher](https://smealum.github.io/3ds/) to launch the `FBI.3dsx` file available [here](https://github.com/Steveice10/FBI/releases). Homebrew's benefit is that its much easier to install than the other method, but the drawback is that it only works with certain models and firmware versions, so you might not be able to use it.
+
+From the main menu of the `FBI` app, go to `Remote Install`, then `Scan QR Code` and scan the code below to download and install Petit Computer. After the installation is complete, exit the app, then restart your system. You should now see the new app on your home menu.
 
 ![CIA QR code](ROMs/cia.png) 
 
