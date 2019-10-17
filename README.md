@@ -3,6 +3,11 @@ This is a retro style space shooter I made using [Petit Computer](https://en.wik
 
 <img src="images/main-menu.jpg" alt="Main Menu" width="400"> <img src="images/gameplay.jpg" alt="Gameplay" width="400">
 
+# How to Play
+Open up Petit Computer on your DSi, tap `File Management`, then tap `Read QR Codes`. Scan the 3 QR codes below in order, and it'll add `PRG:SHOOTER` to your gallery.
+
+![QR1](packaged/QR1.png)![QR2](packaged/QR2.png)![QR3](packaged/QR3.png)
+
 ### Sad News
 If you do not already have a copy of Petit Computer then you will not be able to play this game. The Nintendo DSi Shop has been closed since March 31, 2017, so Petit Computer is no longer available for purchase or download.
 #### Edit:
@@ -19,7 +24,3 @@ The creators of Petit Computer have made a new version of it for the 3DS called 
 >The BASIC language used in this product is not compatible with pre-existing versions of BASIC. Please also note that this product is not compatible with our Petit Computer and Petit Computer mkII products. Please make sure to pay attention to the differences in syntax when attempting to port programs from these products.
 
 So what I gather from this is that copying the old script directly over to the new version probably won't work out-of-the-box, but with a bit of touching up, it shouldn't be too difficult.
-# How to Play
-Open up Petit Computer on your DSi, tap `File Management`, then tap `Read QR Codes`. Scan the 3 QR codes below in order, and it'll add `PRG:SHOOTER` to your gallery.
-
-![QR1](packaged/QR1.png)![QR2](packaged/QR2.png)![QR3](packaged/QR3.png)
